@@ -32,11 +32,11 @@ h6, .h6 {
 
 
 /*
- * Masthead for nav
+ * Masthead for nav   #019875
  */
 
 .blog-masthead {
-  background-color: #019875;
+  background-color: #4d98f4;
   position:fixed;
   width: 100%;
   z-index:999;
